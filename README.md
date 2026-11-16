@@ -1,2 +1,2 @@
 # Learning About Version Control
-author: Julia Gorospe
+Solving merge conflicts is soooooo hard!
